@@ -1,0 +1,18 @@
+.App{
+  text-align: center;
+  font-size: 35px;
+  margin-top: 20%;
+}
+
+.AppTitle{
+  font-size: 50px;
+  padding-bottom: 3%;
+  font-weight: bold;
+  color: tomato;
+  text-shadow: 2px 2px 2px black;
+}
+
+.timer{
+  display: inline;
+  margin: 2%;
+}
